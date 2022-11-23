@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @impossiblepro
-- 👀 I’m interested in Coding, Minecraft and Cooking!
-- 🌱 I’m currently learning how to make a minecraft mod!
-- 💞️ I’m looking to collaborate on 'currently nothing'
+- 👋 Hi, I’m @SunkenPotato
+- 👀 I’m interested in Rust!
+- 🌱 I’m currently making a [shell](https://github.com/SunkenPotato/shl/)!
+- 💞️ I’m looking to collaborate on ^
 - 📫 How to reach me <details>
         <summary></summary>
          _(Discord)_ darkPotato#3242

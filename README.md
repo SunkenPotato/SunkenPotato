@@ -1,12 +1,14 @@
-- 👋 Hi, I’m @SunkenPotato
-- 👀 I’m interested in Rust!
-- 🌱 I’m currently making a [Password Manager](https://github.com/SunkenPotato/passwordmanagerclient/)!
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me <details>
-                <summary></summary>
-                You can't
-  </details>
-<!---
-impossiblepro/impossiblepro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h1 align="center">Hi 👋, I'm SunkenPotato</h1>
+- 🔭 I’m currently working on [Homebase](https://github.com/SunkenPotato/Homebase)
+
+- 🌱 I’m currently learning **PHP**
+
+- 👨‍💻 All of my projects are available at [https://sunkenpotato.com/projects](https://sunkenpotato.com/projects)
+
+- 📝 I irregularly write articles at [https://sunkenpotato.com/posts](https://sunkenpotato.com/posts)
+
+- 📫 How to reach me **Discord: sunkenpotato**
+
+- 📄 Know about my experiences [--unavailable--](--unavailable--)
+
+- ⚡ Fun fact **I have a lot of ideas that I usually start and never finish**
